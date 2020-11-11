@@ -1,4 +1,4 @@
-//格式化日期 默认hhhhh:mm:ss:S
+//格式化日期 默认yyyy-MM-dd
 function timeFormat(date,fmt) 
 {
 	if(!fmt){
@@ -21,6 +21,9 @@ function timeFormat(date,fmt)
  fmt = fmt.replace(RegExp.$1, (RegExp.$1.length==1) ? (o[k]) : (("00"+ o[k]).substr((""+ o[k]).length))); 
  return fmt; 
 }
+
+//添加日期 输入"2020-04-05" 输出 "2020-06-06"
+function addDays(datetime,days){ var oldTime = new Date(datetime.replace(/-/g,"/")); var fd = new Date(oldTime.valueOf()+days*24*60*60*1000); var newTime = fd.getFullYear()+"-";var month = fd.getMonth()+1; if(month>=10) newTime +=month+"-";else newTime+="0"+month+"-"; if(fd.getDate()>=10)newTime +=fd.getDate();else newTime+="0"+fd.getDate();return newTime;}
 
 //验证qq号 至少5位
 function isqq(str){ var result=str.match(/[1-9][0-9]{4,}/); if(result==null) return false; return true; }
