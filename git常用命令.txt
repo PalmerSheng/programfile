@@ -22,3 +22,6 @@ git branch -a
 git branch [branch-name]
 git checkout -b [branch]
 git branch [branch] [commit]
+
+//更新
+git pull  origin master:master
