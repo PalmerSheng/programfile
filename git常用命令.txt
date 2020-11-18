@@ -1,4 +1,5 @@
-参考：https://www.cnblogs.com/miracle77hp/articles/11163532.html
+第一次clone 参考 https://blog.csdn.net/qq_39529839/article/details/84857398
+命令参考：https://www.cnblogs.com/miracle77hp/articles/11163532.html
 git init 新建git代码库
 git clone
 git add .
