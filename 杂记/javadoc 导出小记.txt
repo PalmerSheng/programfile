@@ -1,0 +1,2 @@
+tools->generate javadoc
+在 Other command line arguments:     加入        -encoding UTF-8 -charset UTF-8 
