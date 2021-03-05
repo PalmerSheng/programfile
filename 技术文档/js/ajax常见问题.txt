@@ -1,0 +1,6 @@
+//使用ajax遇到跨域问题
+
+type: "get",
+dataType:"jsonp",
+crossDomain:true,
+jsonp:"callback",

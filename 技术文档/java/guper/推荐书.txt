@@ -1,0 +1,19 @@
+一般不推荐书籍的，但是可能从今天起会慢慢离开这一行，从业几年，推荐几本书，抛砖引玉。
+java基础推荐看下Java核心技术·卷 I（原书第10版）和Java核心技术·卷 I（原书第11版，不过暂无中文版）
+kafka推荐看下Kafka并不难学！入门、进阶、商业实战和Kafka技术内幕
+redis的话推荐看下Redis开发与运维
+spring的话推荐看下精通Spring 4.x
+springboot的话推荐看下JavaEE开发的颠覆者: Spring Boot实战
+springcloud的话推荐看下重新定义Spring Cloud实战
+java多线程与高并发推荐看下Java高并发编程详解
+java nio与socket推荐看下Netty权威指南（第2版）
+web安全与加解密推荐看下白帽子讲Web安全和Java加密与解密的艺术(第2版)
+oracle推荐看下收获，不止Oracle（第2版）
+算法与数据结构推荐看下算法图解
+maven推荐看下Maven实战
+sql的话推荐看下SQL必知必会
+zookeeper的话推荐看下ZooKeeper:分布式过程协同技术详解
+linux就不推荐书了，推荐一下苏老师的网课，当年带我入门，收益良多，Linux 入门基础、Linux高级系统管理、LinuxCast.net每日播客
+jvm的话推荐看下深入理解Java虚拟机（第2版）
+
+豆瓣阅读部分有电子版，不想买的话，私信我给你我的账号

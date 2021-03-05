@@ -1,0 +1,7 @@
+-Xms20m/-Xmx20m 堆的最小值/堆的最大值
+-XX:+HeapDumpOnOutOfMemoryError 在虚拟机出现内存溢出异常时Dump出当前内存堆转储快照以便时候分析	
+
+-Xoss  设置本地方法栈的大小
+-Xss  设置虚拟机栈
+-ZZ:MaxDirectMemorySize
+-XX:+PrintGCDetails //打印GC日志
